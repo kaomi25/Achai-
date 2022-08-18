@@ -8,3 +8,13 @@ Necessario a instalação do mesmo e a substituição nas page.
 no terminal: npx create-next-app (nome) 
 
 Necessario instalçao do TailWind e Font Awesome
+
+###################################################
+
+Versão: 0.1 
+
+###################################################
+Insta:igor_off123
+Linkedin: Igor Ferreira Soriano
+
+               S2 <3
