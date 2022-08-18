@@ -1,0 +1,10 @@
+# Achai-
+
+
+###################################################
+
+Necessario a instalação do mesmo e a substituição nas page.
+
+no terminal: npx create-next-app (nome) 
+
+Necessario instalçao do TailWind e Font Awesome
